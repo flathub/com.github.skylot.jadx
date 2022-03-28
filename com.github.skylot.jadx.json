@@ -11,6 +11,7 @@
         "--share=ipc",
         "--socket=x11",
         "--device=dri",
+        "--filesystem=home",
         "--env=PATH=/app/bin:/app/jre/bin:/usr/bin",
         "--env=JAVA_HOME=/app/jre"
     ],
