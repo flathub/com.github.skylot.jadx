@@ -8,7 +8,7 @@
     <description>
         <p>Command line and GUI tools for producing Java source code from Android Dex and Apk files</p>
         <p>
-            <strong>Main features:</strong>
+            Main features:
             <ul>
                 <li>decompile Dalvik bytecode to java classes from APK, dex, aar, aab and zip files</li>
                 <li>decode AndroidManifest.xml and other resources from resources.arsc</li>
@@ -16,7 +16,7 @@
             </ul>
         </p>
         <p>
-            <strong>jadx-gui features:</strong>
+            jadx-gui features:
             <ul>
                 <li>view decompiled code with highlighted syntax</li>
                 <li>jump to declaration</li>
