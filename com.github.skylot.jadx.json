@@ -4,7 +4,7 @@
     "runtime-version": "21.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": [
-        "org.freedesktop.Sdk.Extension.openjdk11"
+        "org.freedesktop.Sdk.Extension.openjdk17"
     ],
     "command": "jadx-gui",
     "finish-args": [
@@ -25,7 +25,7 @@
             "name": "openjdk",
             "buildsystem": "simple",
             "build-commands": [
-                "/usr/lib/sdk/openjdk11/install.sh"
+                "/usr/lib/sdk/openjdk17/install.sh"
             ]
         },
         {
