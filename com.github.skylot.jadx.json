@@ -37,8 +37,10 @@
                     "sha256": "a13d2be02ed640de54df937ead680f31ea06f4b8efd01860b9f0cf18a7d40e34",
                     "strip-components": 0,
                     "x-checker-data": {
-                        "type": "git",
-                        "tag-pattern": "^v([\\d.]+)$",
+                        "type": "json",
+                        "url": "https://api.github.com/repos/skylot/jadx/releases/latest",
+                        "version-query": ".tag_name | sub(\"^v\"; \"\")",
+                        "url-query": ".assets[] | select(.name == \"jadx-\" + $version + \".zip\") | .browser_download_url",
                         "is-main-source": true
                     }
                 },
