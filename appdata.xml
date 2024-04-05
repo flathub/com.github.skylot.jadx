@@ -5,7 +5,7 @@
     <project_license>Apache-2.0</project_license>
     <name>JADX</name>
     <summary>Dex to Java decompiler</summary>
-    <developer>
+    <developer id="com.github.skylot">
         <name>skylot</name>
     </developer>
     <description>
