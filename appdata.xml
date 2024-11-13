@@ -31,6 +31,7 @@
     <url type="homepage">https://github.com/skylot/jadx</url>
     <url type="bugtracker">https://github.com/skylot/jadx/issues</url>
     <releases>
+        <release version="1.5.1" date="2024-11-11" />
         <release version="1.5.0" date="2024-04-20" />
         <release version="1.4.7" date="2023-04-20" />
         <release version="1.4.6" date="2023-02-20" />
