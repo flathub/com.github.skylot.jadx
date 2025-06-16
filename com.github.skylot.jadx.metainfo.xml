@@ -23,6 +23,7 @@
     </description>
     <screenshots>
         <screenshot type="default">
+            <caption>Main window</caption>
             <image>https://user-images.githubusercontent.com/118523/142730720-839f017e-38db-423e-b53f-39f5f0a0316f.png</image>
         </screenshot>
     </screenshots>
