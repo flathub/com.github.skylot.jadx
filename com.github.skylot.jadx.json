@@ -16,10 +16,6 @@
         "--env=PATH=/app/bin:/app/jre/bin:/usr/bin",
         "--env=JAVA_HOME=/app/jre"
     ],
-    "env": {
-        "PATH": "/app/bin:/app/jre/bin:/usr/bin",
-        "JAVA_HOME": "/app/jre"
-    },
     "modules": [
         {
             "name": "openjdk",
@@ -33,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/skylot/jadx/releases/download/v1.5.1/jadx-1.5.1.zip",
-                    "sha256": "12fd966431903b8e15c36e5007f19343475be7d8f2a55f082e7a929eeabc937e",
+                    "url": "https://github.com/skylot/jadx/releases/download/v1.5.2/jadx-1.5.2.zip",
+                    "sha256": "5a8b480839c9c61527895d81d5572182279d973abe112047417f237df958a3aa",
                     "strip-components": 0,
                     "x-checker-data": {
                         "type": "json",
