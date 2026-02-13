@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/skylot/jadx/releases/download/v1.5.3/jadx-1.5.3.zip",
-                    "sha256": "8280f3799c0273fe797a2bcd90258c943e451fd195f13d05400de5e6451d15ec",
+                    "url": "https://github.com/skylot/jadx/releases/download/v1.5.4/jadx-1.5.4.zip",
+                    "sha256": "f6f0d51a4af63e430045aa64c4f110b89b53e82eb596ccb3a4bd3f865adec70e",
                     "strip-components": 0,
                     "x-checker-data": {
                         "type": "json",
